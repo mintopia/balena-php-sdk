@@ -1,0 +1,18 @@
+{
+    "name": "mintopia/balena-sdk",
+    "description": "PHP Balena Cloud SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mintopia",
+            "email": "jess@mintopia.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mintopia\\BalenaSdk\\": "src\\"
+        }
+    }
+}
